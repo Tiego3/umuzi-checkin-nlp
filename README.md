@@ -344,33 +344,9 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-### Guidelines
-
-- Follow PEP 8 style guide
-- Add comments to complex code sections
-- Update documentation for new features
-- Include tests where applicable
-
----
 
 **Program:** Umuzi Data Science  
 **Date:** November 2025
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgments
-
-- **Umuzi** for providing the dataset and learning opportunity
-- **Student cohort** for sharing honest feedback
-- **Python NLP community** for excellent open-source tools
-
----
 
 ##  Project Status
 
@@ -380,7 +356,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [x] NLP preprocessing pipeline
 - [x] Sentiment analysis
 - [x] Theme identification
-- [x] Visualizations
+- [] Visualizations
 - [x] Final report
 - [x] Documentation
 
