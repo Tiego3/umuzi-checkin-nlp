@@ -1,0 +1,8 @@
+Metric,Value,Category
+Total Responses,372.0,Overview
+Win Responses,360.0,Overview
+Loss Responses,303.0,Overview
+Blocker Responses,277.0,Overview
+Avg Win Sentiment,0.214,Sentiment
+Avg Loss Sentiment,0.035,Sentiment
+Avg Blocker Sentiment,-0.006,Sentiment
